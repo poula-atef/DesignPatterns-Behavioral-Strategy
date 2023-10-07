@@ -2,7 +2,7 @@
 - البرنامج ده هو عباره عن مثال لل Strategy Design Pattern باستخدام لغة java
 # بنستخدم امتي ال Design Pattern ده؟
 - لما يكون عندي object بيعمل عمليه معينه و جواه بيستخدم object تاني فيه ال algorithm لعمل العمليه دي .. وقتها بنستخدم ال design pattern ده عشان نقدر نغير ال algorithm ده في اي وقت
-- ممكن تشوف تشابه بين ال strategy design pattern و ال command design pattern .. الفرق بينهم:
+# الفرق بين ال strategy design pattern و ال command design pattern؟
   - ال strategy design pattern بيقوم بتحديد طريقة عمل او ال algorithm لعمل عمليه معينه (هعمل ازاي؟)
   - ال command design pattern بتقوم بتحديد ايه هي العمليه اللي هتتعمل (هعمل ايه؟) 
 # بيتكون من ايه البرنامج ده ؟
